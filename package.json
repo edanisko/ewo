@@ -1,0 +1,22 @@
+{
+  "name": "whois",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "dev": "tsc ./src/app.ts && node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --watch",
+    "batch": "tsc ./src/batch.ts  && node ./src/batch.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.16.14",
+    "commander": "^10.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}

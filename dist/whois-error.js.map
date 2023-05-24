@@ -1,0 +1,1 @@
+{"version":3,"file":"whois-error.js","sourceRoot":"","sources":["../src/whois-error.ts"],"names":[],"mappings":";AAAA,iBAAiB;AACjB,iEAAiE;;;AAEjE,MAAa,UAAW,SAAQ,KAAK;IACzB,MAAM,CAAS;IAEvB,YAAY,MAAc,EAAE,OAAe;QACvC,KAAK,CAAC,OAAO,CAAC,CAAC;QACf,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;IACzB,CAAC;IAEM,SAAS;QACZ,OAAO,IAAI,CAAC,MAAM,CAAC;IACvB,CAAC;CACJ;AAXD,gCAWC"}
