@@ -7,7 +7,9 @@
     "dev": "tsc ./src/app.ts && node ./src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "tsc --watch",
-    "batch": "tsc ./src/batch.ts  && node ./src/batch.js"
+    "batch": "tsc ./src/batch.ts  && node ./src/batch.js",
+    "deploy": "cp ./src/app.js ./dist/app.js",
+    "build": "tsc ./src/app.ts && pnpm deploy"
   },
   "keywords": [],
   "author": "",
