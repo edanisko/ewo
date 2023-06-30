@@ -1,0 +1,16 @@
+# Ignore TypeScript compiler output
+*.js
+*.js.map
+
+# Ignore TypeScript typings
+*.d.ts
+
+# Ignore build artifacts
+*.js.map
+*.min.js
+*.dll
+*.pdb
+
+# Ignore node_modules
+node_modules
+.DS_Store
